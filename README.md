@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gege443
+- 👀 I’m interested in scripting
+- 🌱 I’m currently learning Sourcemod
